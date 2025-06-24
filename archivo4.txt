@@ -1,1 +1,2 @@
-la información es requerida
+linea1
+linea2
